@@ -1,2 +1,5 @@
-# cactus-repo
-Homework repository for Data Science Practicum 2025
+# Cactus repository
+
+Welcome to the Cactus repository, where the Kaktusáci group uploads their solutions to M7DataSP Advanced Data Science Practicum homework.
+
+## Homework
