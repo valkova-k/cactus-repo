@@ -1,8 +1,10 @@
 # Cactus repository
 
-Welcome to the Cactus repository, where the Kaktusáci group uploads solutions to the M7DataSP Advanced Data Science Practicum homework.
+|index|id|predicted\_price|
+|---|---|---|
+|0|8795|6192616\.954113568|
+|1|6516|10082946\.065651309|
+|2|4714|6542119\.966397249|
+|3|8423|9816701\.653813655|
+|4|5361|9530782\.128571019|
 
-## Homework
-- Lesson 2 (22. 9.)
-
-## Authors
